@@ -81,13 +81,13 @@
   
   <a  target="_blank"><img src="images/turtlebot.png" 
 alt="IMAGE ALT TEXT HERE" width="864" height="540" border="0" /></a>
-  <!-- [![IMAGE ALT TEXT HERE](images/turtlebot.png)](https://docs.omniverse.nvidia.com/isaacsim/latest/ros2_tutorials/tutorial_ros2_turtlebot.html#isaac-sim-app-tutorial-ros2-turtlebot) -->
+  <!-- [![Image of turtlebot](images/turtlebot.png)](https://docs.omniverse.nvidia.com/isaacsim/latest/ros2_tutorials/tutorial_ros2_turtlebot.html#isaac-sim-app-tutorial-ros2-turtlebot) -->
 
 
 
 ### Tutorials: Add Simple Objects & Assemble a Simple Robot
 #### -- extending "URDF Import: Turtlebot"
-  - Pictures to be uploaded.
+  <a href="videos/AssembleRobot.webm" target="_blank"><img src="images/AssembleRobot.png" alt="Image of assembling a robot" width="864" height="540" border="0" /></a>
 
 ### Tutorial: ROS2 Navigation:
   - Install Nav2 using the following commands:
@@ -105,11 +105,11 @@ alt="IMAGE ALT TEXT HERE" width="864" height="540" border="0" /></a>
   - Launch Isaac Sim and enable the `omni.isaac.ros2_bridge` Extension.
   - Generate an occupancy map of the warehouse environment using the Occupancy Map Generator extension.
 
-  [![IMAGE ALT TEXT HERE](images/occupancy_map.png)](https://docs.omniverse.nvidia.com/isaacsim/latest/ros2_tutorials/tutorial_ros2_navigation.html)
+  [![Image of occupancy map](images/occupancy_map.png)](https://docs.omniverse.nvidia.com/isaacsim/latest/ros2_tutorials/tutorial_ros2_navigation.html)
 
 
   - Run Nav2
 
-  ![IMAGE ALT TEXT HERE](images/running_Nav2.png)
+  ![Image of running Nav2](images/running_Nav2.png)
 
 
