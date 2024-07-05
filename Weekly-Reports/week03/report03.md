@@ -61,7 +61,7 @@
   ```
     
     - Challenge: 
-    1. `<distro>` should identified as a placeholder and should be replaced with `humble` in this case.
+    1. `<distro>` should be identified as a placeholder and should be replaced with `humble` in this case.
     2. 
     - After entering the command, an error occurs:
     ```bash
