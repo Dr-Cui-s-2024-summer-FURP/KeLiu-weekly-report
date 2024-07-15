@@ -1,6 +1,6 @@
 # Week 4 Report
 ## Omnigraphs
-- Undersand the Omnigraphs and the utilities of different nodes in an omnigraph.
+- Understand the Omnigraphs and the utilities of different nodes in an omnigraph.
 - Produce an example of an omnigraph.
   <a target="_blank"><img src="images/action_graph.png" alt="Image of an action graph" width="864" height="540" border="0" /></a>
 ## Control robots by action graphs
