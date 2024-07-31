@@ -5,3 +5,4 @@
 - [Week4 Report](Weekly-Reports/week04/report04.md)
 - [Week5 Report](Weekly-Reports/week05/report05.md)
 - [Week6 Report](Weekly-Reports/week06/report06.md)
+- [Week7 Report](Weekly-Reports/week07/report07.md)
