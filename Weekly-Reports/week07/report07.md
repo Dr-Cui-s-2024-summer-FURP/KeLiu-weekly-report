@@ -1,5 +1,5 @@
 # Week 7 Report
-## Video Demonstration of Multi-robot navigation
+## Video demonstration of multi-robot navigation
 -- **Click [here](https://nottinghamedu1-my.sharepoint.com/:v:/g/personal/scykl2_nottingham_edu_cn/EfNp9rG-MRJIsAoBV6zqkugBFrXVd3gSmt_ufK_5GTn7OQ?e=WkFzym) or the picture below** to watch a demonstration video of multi-robot navigation in office envirionment.
 
 
